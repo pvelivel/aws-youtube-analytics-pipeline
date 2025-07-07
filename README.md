@@ -16,7 +16,8 @@ Inspired by [Darshil Parmar's walkthrough](https://www.youtube.com/watch?v=yZKJF
 
 ---
 ## 🧩 Architecture Overview
-![architecture](https://github.com/user-attachments/assets/1fe737bd-db88-493b-ae89-b7cf0b829ff2)
+![architecture](https://github.com/user-attachments/assets/faead011-0035-4a2e-9a0e-df8e02dbe969)
+
 
 
 ## 🧰 Technologies & Services Used
